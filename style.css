@@ -1,0 +1,13 @@
+*{
+    color: white;
+    background-color: black;
+}
+h1{
+    color: aqua;
+}
+button{
+    color: black;
+    background-color: white;
+    border: 2px solid aqua;
+    cursor: pointer;
+}
